@@ -7,3 +7,6 @@ end
 end
 counter
 end
+
+
+def current_player(board)
