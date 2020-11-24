@@ -12,7 +12,7 @@ end
 def current_player(board)
 if turn_count % 2
   return "0"
-elsif
+else
   return "X"
 
 end
