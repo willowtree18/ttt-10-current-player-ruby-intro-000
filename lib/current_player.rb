@@ -5,4 +5,5 @@ counter = 0
     if board_number == "X" or if board_number == "O"
       counter += 1
 end
+counter
 end
